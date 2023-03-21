@@ -1,0 +1,10 @@
+body{
+    background-color: #dac4ff;
+}
+/*Creamos un estilo para el contenedor principal diferente a la clase .container de Bootstrap para no interferir en sus estilos*/
+.principal{
+    background-color: antiquewhite;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
